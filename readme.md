@@ -1,5 +1,5 @@
 
-GUIDE TO PANDEMONIC: AN ESCAPE THE VIRUS GAME.
+Guide to Pandemonic: an escape the virus game.
 ----------------------------------------------
 
 This repository contains C++ code for Pandemonic, a newly created terminal game.
